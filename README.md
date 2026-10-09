@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Mebatsion (Meba) 👋
 
-<!--
-**mebatsionmezgebu-cloud/mebatsionmezgebu-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Business Development · FinTech · Go-to-Market Strategy** — Addis Ababa, Ethiopia
 
-Here are some ideas to get you started:
+I work where business, strategy, and technology meet: building partnerships, opening markets, and turning ideas into things that actually ship.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm into
+- Business development & strategic partnerships
+- FinTech & digital payments — merchant acquiring, POS ecosystems, payment rails
+- Go-to-market strategy & market expansion
+- Key account management
+
+## Where to find me
+- 💼 LinkedIn: [linkedin.com/in/mebatsionmezgebu](https://www.linkedin.com/in/mebatsionmezgebu)
+- 📸 Instagram: [@meba_tsion_01](https://www.instagram.com/meba_tsion_01)
